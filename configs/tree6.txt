@@ -1,0 +1,7 @@
+Axiom: X
+Rules:
+X -> F-[[X]+X]+F[+FX]-X
+F -> FF
+Angle: 22.5
+Iterations: 5
+Step: 5

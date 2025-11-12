@@ -1,0 +1,7 @@
+Axiom: X
+Rules:
+X -> F[+X][-X]FX | F[+X][-X]FXR :0.3
+F -> FF
+Angle: 25.7
+Iterations: 7
+Step: 2

@@ -1,0 +1,6 @@
+Axiom: F
+Rules:
+F -> FF-[-F+F+F]+[+F-F-F]
+Angle: 22.5
+Iterations: 4
+Step: 6

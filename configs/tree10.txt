@@ -1,0 +1,8 @@
+Axiom: Y
+Rules:
+X -> X[-FFF][+FFF]FX
+Y -> YFX[+Y][-Y]
+Angle: 25.7
+Iterations: 6
+Step: 5
+AngleSchedule: 20,25.7,30

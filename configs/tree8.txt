@@ -1,0 +1,8 @@
+Axiom: X
+Rules:
+X -> F[+X][-XL] :0.5 | F[+XL][-X] :0.5
+F -> FF
+Angle: 25
+Iterations: 6
+Step: 4
+random_length:true
